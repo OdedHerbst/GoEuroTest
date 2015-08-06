@@ -1,0 +1,71 @@
+2015-08-05 17:04:46 ERROR Main:34 - Error - jar was run inproperly
+2015-08-05 17:05:11 DEBUG Main:39 - Initiating system
+2015-08-05 17:05:11 DEBUG Main:48 - Querying location : switzerland
+2015-08-05 17:05:11 DEBUG Main:52 - Processing result from server
+2015-08-05 17:05:24 DEBUG Main:76 - Writing data to file
+2015-08-05 17:05:24 DEBUG Main:80 - Process finished with no errors
+2015-08-05 17:26:56 ERROR Main:34 - Error - jar was run inproperly
+2015-08-05 17:27:02 DEBUG Main:39 - Initiating system
+2015-08-05 17:27:02 DEBUG Main:48 - Querying location : aaa
+2015-08-05 17:27:02 DEBUG Main:52 - Processing result from server
+2015-08-05 17:27:03 DEBUG Main:68 - Server answer was empty for current location, exiting
+2015-08-05 17:27:11 DEBUG Main:39 - Initiating system
+2015-08-05 17:27:11 DEBUG Main:48 - Querying location : !@#!@#$#$@%$%
+2015-08-05 17:27:11 DEBUG Main:52 - Processing result from server
+2015-08-05 17:27:11 DEBUG Main:68 - Server answer was empty for current location, exiting
+2015-08-05 17:27:20 DEBUG Main:39 - Initiating system
+2015-08-05 17:27:20 DEBUG Main:48 - Querying location : !@#!@#
+2015-08-05 17:27:20 DEBUG Main:52 - Processing result from server
+2015-08-05 17:27:20 DEBUG Main:68 - Server answer was empty for current location, exiting
+2015-08-05 17:27:24 DEBUG Main:39 - Initiating system
+2015-08-05 17:27:24 DEBUG Main:48 - Querying location : ()
+2015-08-05 17:27:24 DEBUG Main:52 - Processing result from server
+2015-08-05 17:27:24 DEBUG Main:76 - Writing data to file
+2015-08-05 17:27:24 DEBUG Main:80 - Process finished with no errors
+2015-08-05 17:27:51 DEBUG Main:39 - Initiating system
+2015-08-05 17:27:51 DEBUG Main:48 - Querying location : %%&*
+2015-08-05 17:27:51 DEBUG Main:52 - Processing result from server
+2015-08-05 17:27:51 ERROR Main:83 - Error - Error - in remote server
+2015-08-05 17:28:38 DEBUG Main:39 - Initiating system
+2015-08-05 17:28:38 DEBUG Main:48 - Querying location : switzerland
+2015-08-05 17:28:38 DEBUG Main:52 - Processing result from server
+2015-08-05 17:28:39 DEBUG Main:76 - Writing data to file
+2015-08-05 17:28:39 DEBUG Main:80 - Process finished with no errors
+2015-08-05 17:28:52 DEBUG Main:39 - Initiating system
+2015-08-05 17:28:56 DEBUG Main:48 - Querying location : $%^&*
+2015-08-05 17:28:58 DEBUG Main:52 - Processing result from server
+2015-08-05 17:29:14 ERROR Main:83 - Error - Error - in remote server
+2015-08-05 17:29:36 DEBUG Main:39 - Initiating system
+2015-08-05 17:29:36 DEBUG Main:48 - Querying location : $%^&*
+2015-08-05 17:29:36 DEBUG Main:52 - Processing result from server
+2015-08-05 17:30:01 ERROR Main:83 - Error - Error - in remote server
+2015-08-05 17:30:26 DEBUG Main:39 - Initiating system
+2015-08-05 17:30:26 DEBUG Main:48 - Querying location : $%^&*
+2015-08-05 17:30:26 DEBUG Main:52 - Processing result from server
+2015-08-05 17:30:26 ERROR Main:83 - Error - Error - in remote servercode received for request was 400
+2015-08-05 17:30:39 DEBUG Main:39 - Initiating system
+2015-08-05 17:30:39 DEBUG Main:48 - Querying location : $%^*
+2015-08-05 17:30:39 DEBUG Main:52 - Processing result from server
+2015-08-05 17:30:42 ERROR Main:83 - Error - Error - in remote servercode received for request was 400
+2015-08-05 17:47:29 DEBUG Main:39 - Initiating system
+2015-08-05 17:47:29 DEBUG Main:48 - Querying location : $%^*
+2015-08-05 17:47:29 DEBUG Main:52 - Processing result from server
+2015-08-05 17:47:31 ERROR Main:83 - Error - Error - in remote servercode received for request was 400
+2015-08-05 17:47:43 DEBUG Main:39 - Initiating system
+2015-08-05 17:47:43 DEBUG Main:48 - Querying location : paris
+2015-08-05 17:47:43 DEBUG Main:52 - Processing result from server
+2015-08-05 17:47:43 DEBUG Main:76 - Writing data to file
+2015-08-05 17:47:43 DEBUG Main:80 - Process finished with no errors
+2015-08-05 17:52:46 DEBUG Main:39 - Initiating system
+2015-08-05 17:52:46 DEBUG Main:48 - Querying location : %%&*
+2015-08-05 17:52:46 DEBUG Main:52 - Processing result from server
+2015-08-05 17:52:46 ERROR Main:83 - Error - Error - in remote servercode received for request was 400
+2015-08-05 17:52:49 DEBUG Main:39 - Initiating system
+2015-08-05 17:52:49 DEBUG Main:48 - Querying location : s
+2015-08-05 17:52:49 DEBUG Main:52 - Processing result from server
+2015-08-05 17:52:50 DEBUG Main:68 - Server answer was empty for current location, exiting
+2015-08-05 17:52:57 DEBUG Main:39 - Initiating system
+2015-08-05 17:52:57 DEBUG Main:48 - Querying location : lol
+2015-08-05 17:52:57 DEBUG Main:52 - Processing result from server
+2015-08-05 17:52:58 DEBUG Main:76 - Writing data to file
+2015-08-05 17:52:58 DEBUG Main:80 - Process finished with no errors

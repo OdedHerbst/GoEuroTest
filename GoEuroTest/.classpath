@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/oded herbst/workspace/GoEuroTest/lib/json-20141113.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oded herbst/workspace/GoEuroTest/lib/javacsv-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oded herbst/workspace/GoEuroTest/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oded herbst/workspace/GoEuroTest/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oded herbst/workspace/GoEuroTest/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oded herbst/workspace/GoEuroTest/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oded herbst/workspace/GoEuroTest/lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

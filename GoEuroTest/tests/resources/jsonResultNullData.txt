@@ -1,0 +1,1 @@
+[{"_id":null,"key":null,"name":null,"fullName":"Gossau, Switzerland","iata_airport_code":null,"type":null,"country":"Switzerland","geo_position":{"latitude":null,"longitude":null},"locationId":165287,"inEurope":true,"countryCode":"CH","coreCountry":true,"distance":null}]
